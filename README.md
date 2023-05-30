@@ -6,6 +6,8 @@ Estou aberto a propostas de emprego, adoro conhecer coisas novas, trabalhar em g
 
 Pretendo me aprimorar como Software Engineer, iniciei o curso esse ano, para que com os meus conhecimentos eu possa desenvolver projetos e aplicações que tenham um impacto positivo na vida das pessoas!
 
+Começo em junho (2023) um curso Backend pela CubosAcademy, para me apefeiçoar e adentrar o mercado na area como desenvolvedor.
+
 
 Estou Aprendendo ainda, mas foco total nos meus objetivos! eu acredito muito no poder da Network! Recebo muito bem críticas construtivas e sugestões, para que, eu possa crescer e melhorar como pessoa, e como profissional, evoluindo meu trabalho. Então, sinta-se a vontade para mandar uma mensagem, entrar em contato para qualquer finalidade, tanto como sugestão, ofertas de emprego, oportunidades, ideias de projetos, crítica construtiva ou Networking, aguardo seu contato =D
 <!---
