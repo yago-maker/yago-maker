@@ -2,7 +2,7 @@
 - 
 -   Desde criança amei computação, agora, estou em busca de novos desafios na área da tecnologia em geral, estou cursando Engenharia de Software, e no momento, estou estudando as tecnologias da parte do front-end e back-end procurando me tornar fullstack na area de desenvolvedor de software
 
--   - Desenvolvimento fRONT-END ultilizando HTML, CSS , e a biblioteca React.JS
+-   - Desenvolvimento Fron-end ultilizando HTML, CSS , e a biblioteca React.JS
 - Desenvolvimento Back-end utilizando javaScript e pacotes npm | TypeScript | NODE.JS | SQL | GIT 
 - Desenvolvimento de APIs Rest 
 - Experiencia com projeção de banco de dados utilizando PostgreSQL
