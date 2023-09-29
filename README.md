@@ -1,6 +1,6 @@
--Olaa 
+- # Olaa Pessoal
 - 
--   Desde criança amei computação, e procuro ser curioso quando o assunto é tecnologia. agora! estou em busca de novos desafios em geral, estou cursando Engenharia de Software, e no momento, estou estudando as tecnologias da parte do front-end e back-end pela CubosAcademy procurando me tornar fullstack na area de desenvolvedor de software
+-   Me chamo [Yago] (https://www.linkedin.com/in/yago-santos-devmaker) Desde criança amei computação, e procuro ser curioso quando o assunto é tecnologia. agora! estou em busca de novos desafios em geral, estou cursando Engenharia de Software, e no momento, estou estudando as tecnologias da parte do front-end e back-end pela CubosAcademy procurando me tornar fullstack na area de desenvolvedor de software
 
 - Desenvolvimento Fron-end ultilizando HTML, CSS , e a biblioteca React.JS, e a linguagem JavaScript.
 - Desenvolvimento Back-end utilizando javaScript e pacotes npm | TypeScript | NODE.JS | SQL | GIT 
