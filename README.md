@@ -2,12 +2,12 @@
 - 
 - Desde criança amei computação, e procuro ser curioso quando o assunto é tecnologia. agora! estou em busca de novos desafios em geral, estou cursando Engenharia de Software, e no momento, estou estudando as tecnologias da parte do front-end e back-end pela CubosAcademy procurando me tornar fullstack na area de desenvolvedor de software
 
-- Desenvolvimento Fron-end ultilizando HTML, CSS , e a biblioteca React.JS, e a linguagem JavaScript.
+- Desenvolvimento Front-end ultilizando HTML, CSS , e a biblioteca React.JS, e a linguagem JavaScript.
 - Desenvolvimento Back-end utilizando javaScript e pacotes npm | TypeScript | NODE.JS | SQL | GIT 
 - Desenvolvimento de APIs Rest 
 - Experiencia com projeção de banco de dados utilizando PostgreSQL
 - Experiencia com Git Hub
-- Metodos Agueis : Scrum
+- Metodos Ageis : Scrum
 
 Estou aberto a propostas de emprego, adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, não tenho problema nenhum em conhecer ou trabalhar com novas tecnologias. Caso estiver interessado em bater um papo, estou disponível!
 
