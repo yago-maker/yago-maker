@@ -17,7 +17,7 @@ Pretendo me aprimorar como Software Engineer, iniciei o curso nesse ano (2023) n
 
 Foco total nos meus objetivos! eu acredito muito no poder da Network! Recebo muito bem críticas construtivas e sugestões, para que, eu possa crescer e melhorar como pessoa, e como profissional, evoluindo meu trabalho. Então, sinta-se a vontade para mandar uma mensagem, entrar em contato para qualquer finalidade, tanto como sugestão, ofertas de emprego, ou um trabalho extra, toda experiencia conta! Oportunidades, ideias de projetos, aguardo seu contato =D
 
-###Para me encontrar:
+### Para me encontrar
 
 ![(https://www.linkedin.com/in/yago-santos-devmaker)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![(https://www.youtube.com/@programandocomvoce)](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
