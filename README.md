@@ -50,6 +50,6 @@ Foco total nos meus objetivos! eu acredito muito no poder da Network! Recebo mui
  > Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito.
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=yago-maker&theme=tokyonight&hide_border=true&custom_title=Linguagens%85%Principais)
-![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=Yago-Dev&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
 
 
