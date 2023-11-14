@@ -1,8 +1,6 @@
-##Hello World! :love_you_gesture:
+##Hello World! :love_you_gesture: :sparkles
 
-- Me chamo [Yago Santos](https://www.linkedin.com/in/yago-santos-devmaker) Desde criança amei computação, e procuro ser curioso quando o assunto é tecnologia. agora! estou em busca de novos desafios em geral, estou cursando Engenharia de Software, e no momento, estou 
-  estudando as tecnologias da parte do front-end e back-end pela CubosAcademy procurando me tornar fullstack na area de desenvolvedor de software
-
+- Me chamo [Yago Santos](https://www.linkedin.com/in/yago-santos-devmaker) Desde criança amei computação, e procuro ser curioso quando o assunto é tecnologia. agora! estou em busca de novos desafios em geral.. :vulcan_salute:
 
 - Desenvolvimento Front-end ultilizando HTML, CSS , e a biblioteca React.JS, e a linguagem JavaScript.
 - Desenvolvimento Back-end utilizando javaScript e pacotes npm | TypeScript | NODE.JS | SQL | GIT 
@@ -15,7 +13,7 @@
 - :open_book: Tecnico em implantação de
 sistema e suporte tecnico T.I na Biomtech Brasil
 - :mortar_board: Cursando Analise e Desenvolvimento de sistemas, e fullstack na CubosAcademy 
-- :clapper: Sou papai de uma anjinha quando nao estou trabalhando ou estudando | Paixao por motos | Taekwondista
+- :clapper: Sou papai de uma anjinha quando nao estou trabalhando ou estudando | Paixao por motos/animes/series | Taekwondista! 
 - :video_game: Jogo PubG | The Last of US | Valorant | Call of Duty | RPG 
 
 Estou aberto a propostas de emprego, adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, não tenho problema nenhum em conhecer ou trabalhar com novas tecnologias. Caso estiver interessado em bater um papo, estou disponível!
