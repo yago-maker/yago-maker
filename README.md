@@ -11,6 +11,13 @@
 - Experiencia com Git Hub
 - Metodos Ageis : Scrum
 
+- :computer: Buscando uma Carreira Dev o/
+- :open_book: Tecnico em implantação de
+sistema e suporte tecnico T.I na Biomtech Brasil
+- :mortar_board: Cursando Analise e Desenvolvimento de sistemas, e fullstack na CubosAcademy 
+- :clapper: Sou papai de uma anjinha quando nao estou trabalhando ou estudando | Paixao por motos | Taekwondista
+- :video_game: Jogo PubG | The Last of US | Valorant | Call of Duty | RPG 
+
 Estou aberto a propostas de emprego, adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, não tenho problema nenhum em conhecer ou trabalhar com novas tecnologias. Caso estiver interessado em bater um papo, estou disponível!
 
 Pretendo me aprimorar como Software Engineer, iniciei o curso nesse ano (2023) na CubosAcademy para que com os meus conhecimentos eu possa desenvolver projetos e aplicações que tenham um impacto positivo na vida das pessoas!
@@ -43,7 +50,7 @@ Foco total nos meus objetivos! eu acredito muito no poder da Network! Recebo mui
 
  > Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito.
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=yago-maker&theme=tokyonight&hide_border=true&custom_title=Linguagens%60%Principais)
-
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=yago-maker&theme=tokyonight&hide_border=true&custom_title=Linguagens%85%Principais)
+![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=Yago-Dev&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 
