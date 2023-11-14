@@ -41,8 +41,9 @@ Foco total nos meus objetivos! eu acredito muito no poder da Network! Recebo mui
 ![()](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![()](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
- > Lorem Ipsum is simply dummy text of the printing and typesetting industry - Lorem Ipsum
+ > Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito.
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=yago-maker&theme=tokyonight&hide_border=true&custom_title=Linguagens%60%Principais)
+
 
 
