@@ -1,7 +1,7 @@
 
 ## Hello World! :love_you_gesture: :sparkles:
 
-- Me chamo [Yago Santos](https://www.linkedin.com/in/yago-santos-devmaker) Desde criança amei computação, e procuro ser curioso quando o assunto é tecnologia. agora! estou em busca de novos desafios em geral.. :vulcan_salute:
+- Me chamo [Yago Santos] (https://www.linkedin.com/in/yago-santos-devmaker) Desde criança amei computação, e procuro ser curioso quando o assunto é tecnologia. agora! estou em busca de novos desafios em geral.. :vulcan_salute:
 
 - Desenvolvimento Front-end ultilizando HTML, CSS , e a biblioteca React.JS, e a linguagem JavaScript.
 - Desenvolvimento Back-end utilizando javaScript e pacotes npm | TypeScript | NODE.JS | SQL | GIT 
